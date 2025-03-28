@@ -10,10 +10,10 @@
 - 🤔 Interested in **Blockchain, AI, Cyber Security**
 - ⚡ Open to freelance & collaboration opportunities
 ### Tech Stack
--**Languages:** Javascript, Python, Kotlin(#)<br>
--**Frameworks & Libraries:** React.js, Next.js, Django(#)<br>
--**Databases:** PostgreSQL, MySQK(#)<br>
--**Tools:** VS Code, Git, Postman(#)<br>
+-**Languages:** Javascript, Python, Kotlin<br>
+-**Frameworks & Libraries:** React.js, Next.js, Django(<br>
+-**Databases:** PostgreSQL, MySQL<br>
+-**Tools:** VS Code, Git, Postman<br>
 
 ### Connect With Me
 -**Portfolio:** [https://nkatha-portfolio.vercel.app/](#)<br>
