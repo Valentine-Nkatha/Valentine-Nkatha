@@ -16,6 +16,6 @@
 -**Tools:** VS Code, Git, Postman
 
 ### Connect With Me
--**Portfolio:** [https://nkatha-portfolio.vercel.app/](#)
--**LinkedIn:**[https://www.linkedin.com/in/valentine-nkatha-90abb4255/](#)
+-**Portfolio:** [https://nkatha-portfolio.vercel.app/](#)<br>
+-**LinkedIn:**[https://www.linkedin.com/in/valentine-nkatha-90abb4255/](#)<br>
 -**Email:** valentinnenkatha@gmail.com
