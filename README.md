@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Valentine Nkatha
 
-<!--
-**Valentine-Nkatha/Valentine-Nkatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer** 
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I specialize in **[Python, Django, React, Next Js, Kotlin.]**
+- 🌱 I’m currently working on **[Social media app]**
+- 👯 Learning **[PHP, Data Science, Solidity]**
+- 🤔 Interested in **Blockchain, AI, Cyber Security**
+- ⚡ Open to freelance & collaboration opportunities
+### Tech Stack
+-**Languages:** Javascript, Python, Kotlin
+-**Frameworks & Libraries:** React.js, Next.js, Django
+-**Databases:** PostgreSQL, MySQK
+-**Tools:** VS Code, Git, Postman
+
+### Connect With Me
+-**Portfolio:** [https://nkatha-portfolio.vercel.app/](#)
+-**LinkedIn:**[https://www.linkedin.com/in/valentine-nkatha-90abb4255/](#)
+-**Email:** valentinnenkatha@gmail.com
